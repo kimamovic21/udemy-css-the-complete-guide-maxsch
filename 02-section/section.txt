@@ -1,32 +1,31 @@
-CSS - The Complete Guide 2024 (incl. Flexbox, Grid & Sass)
-
-Section 1: Getting Started
-01. Introduction
-02. What is CSS ?
-03. Join our Online Learning Community
-04. CSS History, Present & Future
-05. Course Outline
-06. Choose Your Track
-07. Course Prerequisites
-08. How To Get The Nost Out Of This Course
-09. Recommended Tools
-10. Where to Find the Source Code
-11. Useful Resources & Links
-
-
 Section 2: Diving Into the Basics of CSS
+
 12. Module Introduction
+
 13. Understanding the Course Project Setup
+
 14. Adding CSS to our Project with Inline Styles
+
 15. Understanding the <style> Tag & Creating a .css File
+
 16. Applying Additional Styles & Importing Google Fonts
+
 17. Theory Time - Selectors
+
 18. Understanding the "Cascading" Style & Specificity
+
 19. Understanding Inheritance
+
 20. Adding Combinators
+
 21. Theory Time - Combinators
+
 22. Summarizinh Properties & Selectors
+
 Quiz 1: Selectors & Combinators
+
 Assignment 1: Time to Practice - The Basics
+
 23. Wrap Up
+
 24. Useful Resources & Links
