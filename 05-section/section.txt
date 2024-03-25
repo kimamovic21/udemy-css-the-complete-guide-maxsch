@@ -1,0 +1,43 @@
+Section 5: Practicing the Basics
+
+59. Module Introduction
+
+60. Adding Style to our Plans
+
+61. Working on the Recommended Plan
+
+62. Styling the Badge with "border-radius"
+
+63. Styling our List
+
+64. Working on the Title and the Price of our Packages
+
+65. Improving our Action Button
+
+66. Understanding Outlines
+
+67. Presenting the Core Features to the User
+
+68. Styling the Headline of the Core Features Section
+
+69. Preparing the Content of the Key Feature Area
+
+70. Adding the Footer
+
+71. What we Achieved so Far
+
+72. Adding the Packages Page
+
+73. Your Challenge
+
+74. Styling the Links
+
+75. Styling our Package Boxes
+
+76. Adding "float" to our Package
+
+77. Fixing the Hover Effect
+
+78. Adding the Final Touches
+
+79. Useful Resources & Links
