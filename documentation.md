@@ -96,3 +96,23 @@ Section 5: Practicing the Basics
 77. Fixing the Hover Effect
 78. Adding the Final Touches
 79. Useful Resources & Links
+
+
+Section 6: Positioning Elements with CSS
+80. Module Introduction
+81. Why Positioning will Improve our Website
+82. Understanding Positioning - The Theory
+83. Working with the "fixed" Value
+84. Creating a Fixed Navigation Bar
+85. Using "position" to Add a Background Image
+86. Understanding the Z-Index
+87. Adding a Badge to our Package
+88. Styling & Positioning our Badge with "absolute" and "relative"
+89. Diving Deeper into Relative Positioning
+Quiz 3: Are you a "position" exprt ?
+90. Working with "overflow" and Relative Positioning
+91. Introducing "sticky" Positioning
+92. Understanding the Stacking Context
+Assignment 3: Time to Practice - Positioning
+93. Wrap Up
+94. Useful Resources & Links
