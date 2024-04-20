@@ -1,0 +1,45 @@
+Section 7: Positioning Elements with CSS
+
+95. Optional: Advanced Track Introduction
+
+96. Module Introduction
+
+97. Understanding "background-size"
+-background-size
+
+98. Working with "background-position"
+-background-position
+
+99. The "background" Shorthand - Theory
+-background
+
+100. Applying "background" Origin, Clip & Attachment
+-background-origin
+-background-clip
+
+101. Using the "background" Shorthand on our Project
+-property background
+
+102. Styling Images
+
+103. Adding the Customers Page to our Website
+-kreiramo folder customers
+-u folderu customers kreiramo fajlove index.html i customers.css
+
+104. Working on the Image Layout
+
+105. Understanding Linear Gradients
+-linear-gradient()
+
+106. Applying Radial Gradients
+-radial-gradient()
+
+107. Stacking Multiple Backgrounds
+
+108. Understanding Filters
+
+109. Adding & Styling SVGs - The Basics
+
+110. Wrap Up
+
+111. Useful Resources & Links

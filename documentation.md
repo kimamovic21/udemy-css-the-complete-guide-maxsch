@@ -116,3 +116,23 @@ Quiz 3: Are you a "position" exprt ?
 Assignment 3: Time to Practice - Positioning
 93. Wrap Up
 94. Useful Resources & Links
+
+
+Section 7: Positioning Elements with CSS
+95. Optional: Advanced Track Introduction
+96. Module Introduction
+97. Understanding "background-size"
+98. Working with "background-position"
+99. The "background" Shorthand - Theory
+100. Applying "background" Origin, Clip & Attachment
+101. Using the "background" Shorthand on our Project
+102. Styling Images
+103. Adding the Customers Page to our Website
+104. Working on the Image Layout
+105. Understanding Linear Gradients
+106. Applying Radial Gradients
+107. Stacking Multiple Backgrounds
+108. Understanding Filters
+109. Adding & Styling SVGs - The Basics
+110. Wrap Up
+111. Useful Resources & Links
