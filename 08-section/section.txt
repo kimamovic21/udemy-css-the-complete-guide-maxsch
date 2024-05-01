@@ -1,0 +1,42 @@
+Section 8: Sizes & Units
+
+112. Module Introduction
+
+113. What's Wrong With Our Project Units ?
+
+114. Where Units Matter
+
+115. An Overview of Available Sizes & Units
+
+116. Rules to Remember: Fixed Positioning & "%"
+
+117. Rules to Remember: Absolute Positioning & "%"
+
+118. Rules to Remember: Relative / Static Positioning & "%"
+
+119. Fixing the Height 100% Issue
+
+120. Defining the Font Size in the Root Element
+
+121. Using "min-width/height" & "max-width/height"
+
+122. Working with "rem" & "em"
+
+123. Adding "rem" to Additional Properties
+
+124. Finishing "rem"
+
+125. Understanding the Viewport Units "vw" & "vh"
+
+126. Windows, Viewport Units & Scrollbars
+
+127. Choosing the Right Unit
+
+128. Using "auto" to Center Elements
+
+129. Cleaning Up our Code
+
+130. Wrap Up
+
+131. Useful Resources & Links
+
