@@ -1,0 +1,26 @@
+Section 9: Working with JavaScript & CSS
+
+
+132. Module Introduction
+
+133. Adding a Modal
+
+134. Selecting & Manipulating Styles with JavaScript
+
+135. Adding an Event Listener
+
+Assignment 4: Time to Practice - Adding Styles with Javascript
+
+136. Adding a Side Navigation Bar
+
+137. Opening and Closing the Hamburger Menu
+
+138. Manipulating Element Classes
+
+139. Understanding Property Notations
+
+140. Cleaning Up Our Code
+
+141. Wrap Up
+
+142. Useful Resources & Links
