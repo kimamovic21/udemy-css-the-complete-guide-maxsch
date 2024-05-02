@@ -174,3 +174,26 @@ Assignment 4: Time to Practice - Adding Styles with Javascript
 140. Cleaning Up Our Code
 141. Wrap Up
 142. Useful Resources & Links
+
+
+Section 10: Making our Website Responsive
+143. Module Introduction
+144. Why our Project Should Become Responsive
+145. Understanding Hardware Pixels vs. Software Pixels
+146. Comparing the Viewport Metatag (HTML) and Media Queries (CSS)
+147. Understanding the "Viewport" Metatag
+148. Designing Websites "Mobile First"
+149. Adding our First Media Queries
+150. Things to Keep in Mind when Working with Media Queries
+151. Finding the Right Breaking Points
+152. Creating the Mobile First Design for our Plans
+153. Making the Plans Responsive
+154. Your Challenge
+Assignment 5: Time to Practice - Creating a Responsive Design with Media Queries
+155. Working with Logical Operators
+156. Improving the Customers Page
+157. Improving the Packages Page
+158. Cleaning Up the Navigation Bar
+159. Positioning our Footer Correctly
+160. Wrap Up
+161. Useful Resources & Links
