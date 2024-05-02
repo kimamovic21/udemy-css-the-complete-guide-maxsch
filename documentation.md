@@ -197,3 +197,18 @@ Assignment 5: Time to Practice - Creating a Responsive Design with Media Queries
 159. Positioning our Footer Correctly
 160. Wrap Up
 161. Useful Resources & Links
+
+
+Section 11: Adding & Styling Forms
+162. Module Introduction
+163. Adding the Unstyled Form
+164. Page Initialization
+165. Understanding Advanced Attribute Selectors
+166. Working on the General Layout
+167. Restyling the Form Elements
+168. Styling the Checkbox
+169. Providing Validation Feedback
+170. Styling the Signup Button
+171. Fixing a Broken Link
+172. Wrap Up
+173. Useful Resources & Links
