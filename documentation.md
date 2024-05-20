@@ -212,3 +212,24 @@ Section 11: Adding & Styling Forms
 171. Fixing a Broken Link
 172. Wrap Up
 173. Useful Resources & Links
+
+
+Section 12: Working with Text & Fonts
+174. Module Introduction
+175. Comparing Generic Families & Font Families
+176. Understanding the Browser Settings
+177. Using the Default Font Families
+178. Understanding the "font-family" Syntax
+179. Working with Locally Saved Fonts
+180. Working with Google Fonts
+181. Understanding Font Faces & "font-style"
+182. Importing our Custom Fonts
+183. Understanding Font Formats
+184. Diving into Font Properties
+185. Adding "letter-spacing"
+186. Changing the Line Height
+187. Applying "text-decoration" & "text-shadow"
+188. Understanding the "font" Shorthand
+189. Loading Performance & "font-display"
+190. Wrap Up
+191. Useful Resources & Links
