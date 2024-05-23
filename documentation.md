@@ -233,3 +233,29 @@ Section 12: Working with Text & Fonts
 189. Loading Performance & "font-display"
 190. Wrap Up
 191. Useful Resources & Links
+
+
+Section 13: Adding Flexbox to our Project
+192. Optional: Expert Track Introduction
+193. Module Introduction
+194. How we Could Improve our Project
+195. Understanding Flexbox
+196. Creating a Flex Container
+197.  Using "flex-direction" & "flex-wrap"
+198. Understanding the Importance of Main Axis & Cross Axis
+199. Working with "align-items" & "justify-content"
+200. And What About "align-content"
+Quiz 4: Are you a Flexbox expert already ?
+201. Improving the Navigation Bar with Flexbox
+202. Your Challenge - Working on the Mobile Navigation Bar
+203. Improving the Footer
+Assignment 6: Time to Practice - Flexbox
+205. [OPTIONAL] Assignment Solution
+206. Adding Flexbox to the Customers Page
+207. Using the "order" Property for a Flex Item
+208. Working with "align-self"
+209. Understanding "flex-grow"
+210. Applying "flex-shrink"
+211. Comparing "flex-basis" vs "width" & "height"
+212. Wrap Up
+213. Useful Resources & Links
