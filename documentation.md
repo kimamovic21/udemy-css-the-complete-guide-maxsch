@@ -259,3 +259,36 @@ Assignment 6: Time to Practice - Flexbox
 211. Comparing "flex-basis" vs "width" & "height"
 212. Wrap Up
 213. Useful Resources & Links
+
+
+Section 14: Using the CSS Grid
+214. Module Introduction
+215. What is the CSS Grid ?
+216. Getting Started
+217. Turning a Container into a Grid
+218. Defining Columns & Rows
+219. Positioning Child Elements in a Grid
+220. Using "element-sizing", "repeat" & "minmax"
+221. Advanced Element Positioning
+222. Working with Named Lines
+Assignment 7: Time to Practice - Grid
+223. Understanding Column & Row Shorthands
+224. Working with Gaps
+225. Adding Named Template Areas
+Assignment 8: Time to Practice - Diving deeper into the CSS Grid
+226. Creating Automatically Generated Grid Areas
+227. Using the Grid on our Project
+228. Working with "fit-content"
+229. Positioning Grid Elements
+230. Positioning the Entire Grid Content
+231. Positioning Elements Individually
+232. Understanding Responsive Grids
+233. Applying Autoflow
+234. Comparing the Explicit & Implicit Grid
+235. Understanding "auto-fill" & "auto-fit"
+236. Creating a Dense Grid
+237. Styling the Project Form with Grid
+238. Comparing Grid & Flexbox
+239. Next Steps
+240. Wrap Up
+241. Useful Resources & Links

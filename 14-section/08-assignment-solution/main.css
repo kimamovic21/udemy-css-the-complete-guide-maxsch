@@ -1,0 +1,40 @@
+html {
+    height: 100%;
+}
+
+body {
+    display: grid;
+    margin: 20px;
+    height: 100%;
+    grid-template-areas: 
+        "header header"
+        "aside main"
+        "footer footer";
+    grid-template-columns: 1fr 3fr;
+    grid-template-rows: 4.5rem auto 4.5rem;
+    gap: 10px; 
+}
+
+header {
+    background: blue;
+    color: white;
+    grid-area: header;
+}
+
+main {
+    background: red;
+    color: white;
+    grid-area: main;
+}
+
+aside {
+    background: green;
+    color: white;
+    grid-area: aside;
+}
+
+footer {
+    background: purple;
+    color: white; 
+    grid-area: footer;
+}
