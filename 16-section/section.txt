@@ -1,0 +1,41 @@
+Section 16: Transitions & Animations in CSS
+
+
+254. Module Introduction
+
+255. Understanding and Applying Transitions
+-klasi backdrop dodajemo css opciju transition
+
+256. CSS "transition" Property Deep Dive
+
+257. Working with Timing Functions
+
+258. Transitions & "display"
+-u shared.js fajku kreiramo funkcije setTimeout()
+
+Assignment 9: Time to Practice - CSS Transitions
+-klasi mabile-nav dodajemo transition
+
+259. Using CSS Animations
+-u shared.css dodajemo @keyframes
+-u @keyframes dodajemo opcije from - to
+-klasi .main-nav__item--cta dodajemo css opciju animation
+
+260. CSS "animation" Property Deep Dive
+
+261. Adding Multiple Keyframes
+
+262. Adding Animations to our Customer Page
+-u customers.css fajlu kreiramo @keyframes flip-customer
+-u klase #customer-1:hover .testimonial__image-container dodajemo opciju animation
+
+Assignment 10: Time to Practice - CSS Animations
+-u packages.css fajl kreiramo @keyframes push-up
+
+263. Using JavaScript Animation Event Listeners
+-u shared.js fajlu kreiramo varijablu const ctaButton
+-varijablu ctaButton dodajemo funkciju addEventListener()
+
+264. Wrap Up
+
+265. Useful Resources & Links

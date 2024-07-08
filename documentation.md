@@ -307,3 +307,20 @@ Section 15: Transforming Elements with CSS Transforms
 251. Flipping Elements & "backface-visibility"
 252. Wrap Up
 253. Useful Resources & Links
+
+
+Section 16: Transitions & Animations in CSS
+254. Module Introduction
+255. Understanding and Applying Transitions
+256. CSS "transition" Property Deep Dive
+257. Working with Timing Functions
+258. Transitions & "display"
+Assignment 9: Time to Practice - CSS Transitions
+259. Using CSS Animations
+260. CSS "animation" Property Deep Dive
+261. Adding Multiple Keyframes
+262. Adding Animations to our Customer Page
+Assignment 10: Time to Practice - CSS Animations
+263. Using JavaScript Animation Event Listeners
+264. Wrap Up
+265. Useful Resources & Links
