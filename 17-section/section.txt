@@ -1,0 +1,26 @@
+Section 17: Writing Future-Proof CSS Code
+
+266. Module Introduction
+
+267. CSS Modules & Their Working Groups
+
+268. Using CSS Variables
+-u shared.css fajlu kreiramo varijable sa var()
+
+269. Understanding & Using Vendoor Prefixes
+-Understanding & Using Vendor Prefixes
+
+270. Which Prefixes Should You Use ?
+
+271. Detecting Browser Support with @supports
+-u shared.css fajl dodajemo funckiju @supports
+
+272. Polyfills
+
+273. Eliminating Cross-Browser Inconsistencies
+
+274. How to Name CSS Classes
+
+275. Vanilla CSS vs Frameworks
+
+276. Wrap Up

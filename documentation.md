@@ -324,3 +324,17 @@ Assignment 10: Time to Practice - CSS Animations
 263. Using JavaScript Animation Event Listeners
 264. Wrap Up
 265. Useful Resources & Links
+
+
+Section 17: Writing Future-Proof CSS Code
+266. Module Introduction
+267. CSS Modules & Their Working Groups
+268. Using CSS Variables
+269. Understanding & Using Vendoor Prefixes
+270. Which Prefixes Should You Use ?
+271. Detecting Browser Support with @supports
+272. Polyfills
+273. Eliminating Cross-Browser Inconsistencies
+274. How to Name CSS Classes
+275. Vanilla CSS vs Frameworks
+276. Wrap Up
