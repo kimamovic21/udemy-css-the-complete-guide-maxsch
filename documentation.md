@@ -338,3 +338,26 @@ Section 17: Writing Future-Proof CSS Code
 274. How to Name CSS Classes
 275. Vanilla CSS vs Frameworks
 276. Wrap Up
+277. Useful Resources & Links
+
+
+Section 18: Introducing Sass (Syntactically Awesome Style Sheets)
+278. Module Introduction
+279. What is Sass & Scss ?
+280. Important: Installing Sass
+281. Installing Sass
+282. Things to be Improved with Sass
+283. Nesting 
+284. Adding Nested Properties
+285. Understanding Variables
+286. Storing Lists & Maps in Variables
+287. Built-in Functions
+Assignment 11: Time to Practice - Sass
+288. Adding Simple Arithmetics
+289. Adding Better Import and Partials
+290. Improving Media Queries
+291. Understanding Inheritance
+292. Adding Mixins
+293. Using the Ampersand Operator
+294. Wrap Up
+295. Useful Resources & Links

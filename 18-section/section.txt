@@ -1,0 +1,53 @@
+Section 18: Introducing Sass (Syntactically Awesome Style Sheets)
+
+278. Module Introduction
+
+279. What is Sass & Scss ?
+
+280. Important: Installing Sass
+
+281. Installing Sass
+-u terminal ukucamo komandu gem install sass
+
+282. Things to be Improved with Sass
+
+283. Nesting 
+-kreiramo main.scss fajl
+-u terminal ukucamo komandu sass main.scss main.css
+-nakon ove komande kreira se main.css.map fajl
+-u terminal ukucamo komandu --watch main.scss:main.css
+
+284. Adding Nested Properties
+
+285. Understanding Variables
+-u main.scss fajlu kreiramo varijablu $main-color
+
+286. Storing Lists & Maps in Variables
+-kreiramo varijable $colors, $border-default
+
+287. Built-in Functions
+
+Assignment 11: Time to Practice - Sass
+
+288. Adding Simple Arithmetics
+
+289. Adding Better Import and Partials
+-kreiramo _variables.scss fajl
+-u main.scss fajl dodajemo import _variables.scss
+
+290. Improving Media Queries
+-u main.scss fajl dodajemo @media funkcije u css klase
+
+291. Understanding Inheritance
+-u main.scss klase dodajemo @extend
+
+292. Adding Mixins
+-u main.scss fajl dodajemo direktivu @mixin
+
+293. Using the Ampersand Operator
+
+294. Wrap Up
+
+295. Useful Resources & Links
+
+276. Wrap Up
